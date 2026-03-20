@@ -1,2 +1,3 @@
-# next-ml-project-nfzb
-Automated issue comment bot repository
+# Next Ml Project Nfzb
+
+Automated issue comment bot repository.
